@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diogo-agb
-- 👀 I’m interested in ... Mobile application development, Android, iOS, financial market.
+- 👀 I’m interested in ... Mobile application development, Android, iOS, IoT, Web, financial market.
 - 🌱 I’m currently learning ... Flutter, Dart, Java, C, project management, people management, financial market, stock market.
 - 💞️ I’m looking to collaborate on ... flutter projects
 - 📫 How to reach me ... email to diogo.agb@gmail.com
